@@ -1,0 +1,104 @@
+p {
+  color: grey;
+  font-family: 'Work Sans', sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+  width: 150px;
+}
+
+.NavText {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+}
+
+.AboutText {
+  color: #fff;
+  text-align: center;
+  margin: 30px 0 10px 0;
+}
+
+.iconsA1 {
+  max-width: 130px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.SmallCard {
+  height: 360px;
+  width: 280px!important;
+}
+
+.icons {
+  max-width: 180px;
+  opacity: 0.9;
+}
+
+.Services {
+  margin: 0 auto 100px auto;
+  max-width: 50%;
+}
+
+.ContactCard {
+  padding: 80px 0 100px 0;
+  min-width: 400px;
+  background-color: #4A555C!important;
+  max-width: 800px;
+}
+
+.MuiPaper-root {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #4A555C!important;
+
+}
+
+.MuiGrid-spacing-xs-10 {
+    width: 100%!important;
+    padding: 50px 50px;
+}
+
+.HeroTitle {
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 25px;
+  font-family: 'Playfair Display', serif;
+}
+
+.HeroText {
+  margin-bottom: 35px;
+  font-family: 'Playfair Display', serif;
+}
+
+.HeroSection {
+  margin: 80px auto 180px auto;
+  max-width: 1000px;
+}
+
+.HeaderIcons {
+  width: 320px;
+}
+
+.H3Title {
+  color: #8C2523;
+  font-weight: 600;
+  font-family: 'Playfair Display', serif;
+}
+
+.contactIcon {
+  width: 200px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .Services {
+    max-width: 90%;
+  }
+}
